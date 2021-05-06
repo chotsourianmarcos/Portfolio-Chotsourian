@@ -1,0 +1,18 @@
+            <h4>Agregar Nueva Novedad</h4>
+            <div class="evento">
+            <form action="/admin/novedades/nuevo" method="post">
+            <div>
+                <input type="text" id="exampleFormControlInput1" placeholder="Título" name="titulo">
+                </div>
+                <div>
+                <input type="text" id="exampleFormControlInput1" placeholder="Subtítulo" name="subtitulo">
+                </div>
+                <div>
+                <textarea type="text" id="exampleFormControlTextarea1" placeholder="Cuerpo" name="cuerpo"></textarea>
+                </div>
+                <button type="submit">Guardar</button>
+            </form>
+            {{#if error}}
+            <p>{{mensaje}}</p>
+            {{/if}}
+            </div>

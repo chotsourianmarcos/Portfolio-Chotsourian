@@ -1,0 +1,71 @@
+<main>
+        <div>
+            <p class="saludo">Hola, {{usuario}}! </p>
+        </div>
+        <div class="botoncito">
+            <a class="botoncito" style="text-decoration: none;" href="/admin/login/logout">Cerrar sesión <i></i></a>
+        </div>
+
+        <br>
+
+        <div>
+            <form action="/admin/novedades" method="get">
+            <input type="search" placeholder="Search" aria-label="Search" name="q" {{#if q}} value="{{q}}" {{/if}}>
+            <button type="submit">Search</button>
+            </form>
+        </div>
+
+        <br>
+
+        <h2>Eventos</h2>
+
+        <br>
+
+        <div class="botoncito">
+           <a class="botoncito" style="text-decoration: none;" href="/admin/novedades/nuevo"><i></i>Nueva Novedad</a>
+        </div>
+
+        
+                    
+                    {{#each novedades}}
+                    <div class="evento">
+                    <h2>{{titulo}}</h3>
+                    <h3>{{subtitulo}}</h5>
+                    <p>{{cuerpo}}</p>
+                    <a class="botoncito" style="text-decoration: none;" title="Editar" href="/admin/novedades/modificar/{{id}}"><i></i>Modificar</a>
+                    <a class="botoncito" style="text-decoration: none;" title="Eliminar" href="/admin/novedades/eliminar/{{id}}"> <i></i>Eliminar</a>
+                    </div>
+                    <hr>
+                    {{/each}}
+                    
+                
+                {{#if is_search}}
+                {{#unless novedades.length}}
+                <p>No se encontraron resultados para "<b>{{q}}</b>"</p>
+                {{/unless}}
+                {{/if}}
+                    <hr>
+                    <hr>
+                    <h2>Contactos</h2>
+                    <table style="width: 75%;">
+                        <tr class="categorías">
+                            <th>Nombre y Apellido</th>
+                            <th>E-mail</th>
+                            <th>Teléfono</th>
+                        </tr>
+                        {{#each contactos}}
+                        <tr>
+                            <th>
+                            {{nombre}}
+                            </th>
+                            <th>
+                            {{email}}
+                            </th>
+                            <th>
+                           {{telefono}}
+                            </th>
+                        </tr>
+                        {{/each}}
+                    </table>
+                        
+</main>

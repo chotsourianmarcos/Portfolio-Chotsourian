@@ -1,0 +1,89 @@
+Ampliando críticas al mítico Mito de lo Dado
+
+Introducción	
+El texto de Wilfred Sellars, Empirismo y la Filosofía de la Mente es sumamente  rico y no muy apreciado y difundido en relación a su talante. 
+
+El objetivo de este trabajo es entonces modesto en términos de “novedad“.
+
+Si al final lográsemos dar una idea precisa y significativa del texto, evaluando sus logros y sus límites, nos consideraremos en parte realizados.
+
+Por lo demás, consideramos que el texto mismo es lo bastante difícil como para que su aclaración sea un trabajo de por sí valioso.
+
+No pretendemos hacer una lectura exegéticamente puntillosa, sino una lectura que sin dejar de ser fiel al texto sea útil y relevante.
+
+El objetivo explícito de Sellars es proporcionar motivos para abandonar lo que él llama el “Mito de lo Dado“.
+
+Este mito cobra distintas formas, pero él en particular pretende mostrar cómo este Mito falla en ciertas versiones del empirismo.
+
+A partir de esta falla propone una serie de tesis filosóficas que permiten por un lado abandonar el Mito de lo Dado empirista sin abandonar las principales motivaciones que nos llevaron a él. 
+
+Como segundo objetivo nuestro también desenvolveremos el problema planteado, su solución y sus tesis positivas en términos epistemológicos más generales e independientes del empirismo, cosa que Sellars asume como posible pero sólo precisa para esa forma particular del asunto.
+
+El Mito de lo Dado
+
+El afán de encontrar lo que algo en verdad es podría tomarse como una de las notas del conocimiento, quizás un poco general y vaga, pero aceptable.
+
+Muchos, más ambiciosos, pretenden encontrar lo que todo en verdad es.
+
+Y no sólo lo que cada una de todas las cosas en verdad es, sino aquello único que cada una de todas las cosas en verdad es.
+
+El Mito de lo Dado, en su versión general, podría entenderse como la idea según la cual todo tipo de fenómeno1 se reduce sin resto a un otro y único tipo, independiente de lo reducido.
+
+Llamémosle “ítem“, a este cierto tipo.
+
+Si nosotros fuéramos entonces adeptos al Mito, creeríamos fuertemente que todo fenómeno se reduce a estos ítems, en su existencia, en su conocimiento y en su expresión y significados lingüísticos.
+
+Por lo tanto, nuestra empresa humana, cognitiva y filosófica habría de ocuparse de ellos primariamente, como fuente independiente, segura y monopólica del saber.
+
+Esta manera de encarar la empresa cognoscitiva no ha circulado sólo en ámbitos científicos. La filosofía también se ha pensado en esos términos.
+
+Ella, siguiendo esta provisoria adopción del Mito, no se distinguiría de las ciencias más que por su generalidad, y se coronaría como la episteme más universal y fundamental.
+
+Pues es ella quien en verdad sabe a qué ítem se reduce todo.
+
+Las ciencias particulares serían versiones parceladas, que al enfocarse en un aspecto o área del ser no llevan a éste a su reducción última.
+
+Hoy en día no es tan común como lo fue pensar sobre la filosofía ni sobre el conocimiento de esta manera totalizante.
+
+Es más corriente pensar que hay distintas esferas de lo real, que si bien se interrelacionan, cada una corresponde a un tipo de realidad distinta e independiente.
+
+Como pueden ser las esferas científica, política, religiosa, artística, etc.
+
+Sin embargo, este “pluralismo“2 no necesariamente deja de lado el Mito de lo Dado, en tanto se puede aun pensar que cada esfera de lo real se reduce a un ítem como el descrito anteriormente, aunque no todas al mismo.
+
+Muchos filósofos vieron este problema, podría pensarse con Heidegger por ejemplo que el Mito de lo Dado no es más que otra forma en la que el hombre abandona la pregunta por el ser, reemplazándola por la pregunta por un ente privilegiado.
+
+Este asunto puede pensarse tan viejo como los sofistas, no es cuestión por ello de desdeñar la recurrencia de los problemas filosóficos ni lo provisorio de sus tratamientos.
+
+La filosofía es la fuerza insistente que puja por abrir el juego y embarrar la cancha cuando todo parece ya claro y distinto.
+
+Es cuestión de matizar legitimidades, que siempre se pretenden máximamente legítimas. 
+En síntesis, el Mito de lo Dado implica que:
+
+-para al menos alguna esfera de lo real el conocer y significar humanos deben remitirse a cierto tipo de ítems. 
+
+-estos ítems existen, se conocen y se formulan lingüísticamente con independencia de todos los otros fenómenos de la esfera; 
+
+-todos los otros fenómenos se reducen a ellos, la existencia, el conocimiento o la significación de un fenómeno es en verdad el de uno o varios ítems que lo reducen.
+
+-remitirse a estos ítems es suficiente para abarcar todo lo relativo a esta esfera.
+
+Podría decirse que la reducción pretendida con el Mito es múltiple: ontológica, semántico/lingüística, gnoseológica y lógica.
+
+Es ontológica porque la existencia del fenómeno reducido es la existencia del o los ítems en cuestión. Y nada más.
+
+Es semántica o lingüística porque el significado de los términos usados para referir al fenómeno reducido es el significado del o los ítems en cuestión.
+
+Y nada más.
+
+Es gnoseológica porque las condiciones de posibilidad del conocimiento del fenómeno reducido son las condiciones de posibilidad del conocimiento de el o los ítems en cuestión.
+
+Y nada más.
+
+Y es lógica porque las relaciones veritativas e inferenciales del fenómeno reducido son las de el o los ítems en cuestión.
+
+Y nada más.
+
+Es muy importante entender que la crítica de Sellars al asunto no es decir que estas reducciones no son posibles o inútiles per se, sino que no son posibles ni útiles todas juntas y hacia el mismo elemento.
+
+Y quizás el error filosófico capital sea intentar solaparlas todas en una, intento que ha caracterizado al menos a buena parte de la filosofía sistemática.
