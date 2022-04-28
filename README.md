@@ -8,7 +8,7 @@ Proyects:
 -Contact: chotsourian.marcos@gmail.com
 
 Proyectos:
--(2021/2022) ASP.NET C# + KnockoutJS. "Migrations: WebForms to MVC". Este proyecto no está cargdo porque es propiedad confidencial del cliente.
+-(2021/2022) ASP.NET C# + KnockoutJS. "Migrations: WebForms to MVC". Este proyecto no está cargado porque es propiedad confidencial del cliente.
 -(2020) NodeJS. "Sitio Ajedrez San Isidro" / "Sitio Transporte". Sitios web con conexión a base de datos. Uno de ellos está actualmente corriendo en
 https://ajedrezsanisidro.herokuapp.com/
 -(2020) Python. "Programa Python": clasifica y agrupa strings por parecido de palabras. Es mi primer programa. Pendiente de mejoramiento.
