@@ -2,9 +2,9 @@
 Portfolio Marcos Chotsourian.
 
 In this repo there are four proyects:
--(2020)NodeJS: The other two are web sites in Node.js, with conection to data base. One of them is currently running in:
+-(2020)NodeJS "Sitio Ajedrez San Isidro" / "Sitio Transporte". Web sites in Node.js, with conection to data base. One of them is currently running in:
 https://ajedrezsanisidro.herokuapp.com/
--(2020)Python: classifies and groups strings according to word frecuence. It is my very first project.
+-(2020)Python "Acercar palabras": classifies and groups strings according to word frecuence. It is my very first project.
 Contact: chotsourian.marcos@gmail.com
 
 En este repo hay tres proyectos.
