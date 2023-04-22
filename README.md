@@ -1,6 +1,5 @@
 
 Portfolio Marcos Chotsourian.
-CV-WebSite en https://chotsourianmarcos.github.io/
 
 Proyects:
 -(2022) ASP.NET C# + Angular. "Call Center Administration System". Freelance project for a call center business. It can be inspected in https://github.com/chotsourianmarcos/CallCenterAdmSys (client's permission is already granted). Development in process.
