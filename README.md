@@ -11,7 +11,7 @@ FrontEnd: ReactTS https://github.com/chotsourianmarcos/my-notes-frontend
 </br>
 URL: https://my-notes-mc-frontend-a0fc6ad0aa34.herokuapp.com/
 </br>
--(2023) C# .NET Back End Resources in https://github.com/chotsourianmarcos/RecursosBack.
+-(2023) C# .NET Back End Resources https://github.com/chotsourianmarcos/RecursosBack.
 </br>
 -(2020) FullStack Practice NodeJS. "Sitio Ajedrez San Isidro" / "Sitio Transporte". Web sites with conection to data base.
 </br>
