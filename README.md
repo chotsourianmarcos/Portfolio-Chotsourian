@@ -1,16 +1,16 @@
 
-Portfolio Marcos Chotsourian.
+<p>-Portfolio Marcos Chotsourian.</p>
 </br>
-Proyects:
+<p>-FullStack simple and scalable sample:</p>
 </br>
--(2023) Full Back End C# .NET Resources for Bootcamp in https://github.com/chotsourianmarcos/RecursosBack.
+<p>WebSite Example "My Notes".</p>
 </br>
--(2022) ASP.NET C# + Angular. "Call Center Administration System". Freelance project for a call center business. It can be inspected in https://github.com/chotsourianmarcos/CallCenterAdmSys (client's permission is already granted). Development in process.
+<p><a href="https://github.com/chotsourianmarcos/my-notes-backend">BackEnd: C# .NET Core API + Entity Framework Core</a></p>
 </br>
--(2021/2022) ASP.NET C# + KnockoutJS. "Migrations: WebForms to MVC". This project is not loaded because it is client's confidential property.
+<p><a href="https://github.com/chotsourianmarcos/my-notes-frontend">FrontEnd: ReactTS</a></p>
 </br>
--(2020) NodeJS. "Sitio Ajedrez San Isidro" / "Sitio Transporte". Web sites with conection to data base.
+<p>URL: https://my-notes-mc-frontend-a0fc6ad0aa34.herokuapp.com/</p>
 </br>
--(2020) Python "Programa Python": classifies and groups strings according to word frecuence. It is my very first project. To be upgraded.
+<p><a href="https://github.com/chotsourianmarcos/RecursosBack">-Full Back End C# .NET Resources for Bootcamp</a></p>
 </br>
--Contact: chotsourian.marcos@gmail.com
+<p>-Contact: chotsourian.marcos@gmail.com</p>
