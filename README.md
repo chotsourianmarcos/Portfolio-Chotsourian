@@ -7,4 +7,4 @@
 <p>FrontEnd repo:  &nbsp;<a href="https://github.com/chotsourianmarcos/my-notes-frontend">ReactTS</a></p>
 <p>URL: https://my-notes-mc-frontend-a0fc6ad0aa34.herokuapp.com/</p>
 <p><b>-BackEnd resources repo:  &nbsp;</b><a href="https://github.com/chotsourianmarcos/RecursosBack">C# .NET Resources for Bootcamp</a></p>
-<p><b>-Contact:</b> chotsourian.marcos@gmail.com</p>
+<p><b>-Contact:</b> chotsourian.marcos@gmail.com / +54 9 11 2453 9566 / Buenos Aires, Argentina</p>
